@@ -1,0 +1,14 @@
+{
+	"name": "drieshooghe/crafttwigextras",
+	"description": "This is a plugin for Craft CMS that adds custom filters and functions to twig.",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Dries Hooghe",
+			"homepage": "https://github.com/drieshooghe"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
