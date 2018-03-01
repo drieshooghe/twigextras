@@ -1,7 +1,15 @@
 [
     {
+        "version": "1.0.1",
+        "downloadUrl": "https://github.com/drieshooghe/twigextras/archive/1.0.1.zip",
+        "date": "2018-03-01T08:43:30.006Z",
+        "notes": [
+            "[Modified] Removed youtube valid link checking from twig filters as this goes against MVC logic. To be moved to a seperate field."
+        ]
+    },
+    {
         "version": "1.0.0",
-        "downloadUrl": "https://github.com/drieshooghe/twigextras/archive/master.zip",
+        "downloadUrl": "https://github.com/drieshooghe/twigextras/archive/1.0.0.zip",
         "date": "2018-02-28T17:38:11.006Z",
         "notes": [
             "[Added] Initial release"

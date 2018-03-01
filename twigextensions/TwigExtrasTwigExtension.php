@@ -71,12 +71,4 @@ class TwigExtrasTwigExtension extends \Twig_Extension
 		return craft()->twigExtras_mediaLinks->getEmbeddedLink($url, $platform);
 	}
 
-	/**
-	 * @param $url
-	 *
-	 * @return bool
-	 */
-	public function mediaLinkCheck($url, $platform) {
-		return craft()->twigExtras_mediaLinks->validateUrl($url, $platform);
-	}
 }
